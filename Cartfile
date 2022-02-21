@@ -5,4 +5,3 @@ github "tula-byte/Sodium-framework" "v1.0.11"
 github "behrang/YamlSwift" "3.4.3"
 github "zhuhaow/Resolver" ~> 0.2.0
 github "xmhu/tun2socks" "master"
-github "zhuhaow/Resolver" ~> 0.2.0
